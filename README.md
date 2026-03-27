@@ -42,13 +42,7 @@ File	Description
 `screenshots/`	Dashboard page previews
 ---
 Screenshots
-Exec Dashboard
-![Exec Dashboard](screenshots/exec_dashboard.jpg)
-Product Detail
-![Product Detail](screenshots/product_detail.jpg)
-Customer Detail
-![Customer Detail](screenshots/customer_detail.jpg)
----
+#All files are attached
 How to Use
 Download the `.pbix` file
 Open in Power BI Desktop (free download from Microsoft)
